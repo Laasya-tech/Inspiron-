@@ -1,0 +1,24 @@
+body 
+{
+    text-align: center;
+    background-image: url(Background\ 3.jpg);
+    background-size: cover;
+     color: black; 
+    font-family: cursive;
+}
+#user_name
+{
+    width: 25cm;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color:lightyellow;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:black;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px linen;
+}

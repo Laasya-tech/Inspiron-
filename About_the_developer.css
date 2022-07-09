@@ -1,0 +1,32 @@
+
+
+body
+{
+	background-image: url("Background\ 6.jpg");
+    background-position: center;
+    
+    font-family: cursive;
+    color:cornsilk;
+}
+img
+{
+    width: 30%;
+    padding: 6mm;
+   
+    
+    border: darkturquoise;
+    border-style: ridge;
+    border-width: 2mm;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color:lightyellow;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:black;
+    line-height: 3;
+    text-align: center !important;
+    text-shadow: 5px 5px 5px linen;
+}
